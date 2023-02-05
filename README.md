@@ -4,7 +4,7 @@ Sales Products - Flutter Web
 
 ## Instalação do projeto
 
-- Após baixar o projeto, basta abrir o "main.dart" e colocar para rodar com o debugging
+- Após baixar o projeto, abrir o projeto com o Visual Studio Code e basta abrir o "main.dart" no local: "lib/src" e colocar para rodar com o debugging.
 - O seu Visual Studio Code precisa estar com o pacote do Flutter instalado.
 - Os dados para a autenticação são: 
 
