@@ -1,0 +1,47 @@
+{
+   "checksum": "fe18f369648cdbb2d38b4470caa6fd49",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13319653090393917",
+            "date_last_used": "0",
+            "guid": "7f8d2813-7886-4370-bac6-23b47ac6822f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Flutter Demo",
+            "type": "url",
+            "url": "http://localhost:54386/#/"
+         } ],
+         "date_added": "13319652966598971",
+         "date_last_used": "0",
+         "date_modified": "13319653090393917",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13319652966598974",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13319652966598980",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
